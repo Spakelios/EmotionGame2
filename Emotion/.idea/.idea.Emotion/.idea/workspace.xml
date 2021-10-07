@@ -10,11 +10,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/HealthBar.cs" />
       <option value="$PROJECT_DIR$/Assets/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/Code/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Code/Timer.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1zBCM2ku86U3zQY4z0PH2oe111K" />
@@ -59,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633612048153</updated>
       <workItem from="1633612049119" duration="1132000" />
-      <workItem from="1633613742207" duration="355000" />
+      <workItem from="1633613742207" duration="1905000" />
     </task>
     <servers />
   </component>
