@@ -19,6 +19,7 @@
       <option value="$PROJECT_DIR$/Assets/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/Code/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/Code/Timer.cs" />
+      <option value="$PROJECT_DIR$/Assets/PauseMenu.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1zBCM2ku86U3zQY4z0PH2oe111K" />
@@ -64,6 +65,8 @@
       <updated>1633612048153</updated>
       <workItem from="1633612049119" duration="1132000" />
       <workItem from="1633613742207" duration="1905000" />
+      <workItem from="1633901373760" duration="507000" />
+      <workItem from="1633955652154" duration="1300000" />
     </task>
     <servers />
   </component>
