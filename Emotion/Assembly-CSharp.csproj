@@ -58,6 +58,8 @@
      <Compile Include="Assets\Code\CharacterController2D.cs" />
      <Compile Include="Assets\Code\PlayerMovement.cs" />
      <Compile Include="Assets\Code\PauseMenu.cs" />
+     <Compile Include="Assets\Code\VerticalPlatform.cs" />
+     <Compile Include="Assets\Code\HiddenArea.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -759,6 +761,14 @@
       <Project>{8aba1cc5-332f-77f2-2f6e-fc2f759ba19c}</Project>
       <Name>Unity.ShaderGraph.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Cinemachine.csproj">
+      <Project>{bfe74afd-f4c5-ffc1-6e0b-8802e8a566ff}</Project>
+      <Name>Cinemachine</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
+      <Project>{7e3cc209-f7e4-f508-6b0b-624df1fa6684}</Project>
+      <Name>com.unity.cinemachine.editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
       <Project>{a0eaa1da-f9ad-56f3-4d47-4008e605ad22}</Project>
       <Name>Unity.RenderPipelines.Universal.Editor</Name>
@@ -810,14 +820,6 @@
     <ProjectReference Include="Unity.2D.SpriteShape.Runtime.csproj">
       <Project>{56974e73-5001-17e7-1503-343c94570546}</Project>
       <Name>Unity.2D.SpriteShape.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
-      <Project>{7e3cc209-f7e4-f508-6b0b-624df1fa6684}</Project>
-      <Name>com.unity.cinemachine.editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Cinemachine.csproj">
-      <Project>{bfe74afd-f4c5-ffc1-6e0b-8802e8a566ff}</Project>
-      <Name>Cinemachine</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
