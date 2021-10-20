@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/CodingTests.unity
-=======
-- path: Assets/scene 2 electric boogaloo.unity
->>>>>>> 7057391fa97e08500a13405825bf6809d4088841
+- path: Assets/Scenes/Level Design WIP WOAH.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
