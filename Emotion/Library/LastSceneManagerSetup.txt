@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Level Design WIP WOAH.unity
+- path: Assets/This is a test.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
